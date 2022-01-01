@@ -1,0 +1,64 @@
+.tempo{
+font-size: 40px;
+color: red;
+}
+#bmp{
+    font-size: 25px;
+    color: red;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#input1{
+    margin-top: 30px;
+    width: 350px;
+    height: 2px;
+   
+}
+.plus {
+    
+    background-color: rgb(0, 119, 255);
+    border: none;
+    font-size: 20px;
+    color: azure;
+    border-radius: 100%;
+    width: 30px;
+    height: 30px;
+    
+}
+.mines{
+    background-color: rgb(0, 119, 255);
+    border: none;
+    font-size: 20px;
+    color: azure;
+   
+    
+    border-radius: 100%;
+    width: 30px;
+    height: 30px;
+}
+/*#sound{
+    position: relative;
+    margin:0;
+    top: 7px;
+    
+}*/
+#icon_sound{
+    position: fixed;
+
+    width: 40px;
+    height: 40px;
+    margin-left:386px;
+    top: 15;
+    
+}
+#div1{
+    border-style: solid;
+    width: 430px;
+    height: 50px;
+    border: none;
+}
+#div2{
+    border-style: solid;
+    width: 220px;
+    height: 47px;
+    border: none;
+}
